@@ -1,0 +1,2 @@
+Line 1 for newFile-02.txt
+Line 2 for newFile-02.txt
